@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Dimasega18
+- 👋 Hi, I’m Dimas ega
 - 👀 I’m interested in data
 - 🌱 I’m currently learning sql and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Dimasega18/Dimasega18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
