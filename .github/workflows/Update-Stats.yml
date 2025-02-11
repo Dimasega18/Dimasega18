@@ -1,0 +1,26 @@
+name: Update Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Update setiap 6 jam
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        run: |
+          curl -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"
+          curl -o streak-stats.svg "https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add github-stats.svg streak-stats.svg
+          git commit -m "Auto-update GitHub Stats"
+          git push
