@@ -1,16 +1,15 @@
-## Hi there 👋
+### 🐍 GitHub Snake Animation
+<p align="center">
+  <img src="https://github.com/Dimasega18/Dimasega18/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
-<!--
-**Dimasega18/Dimasega18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github.com/Dimasega18/Dimasega18/raw/main/github-stats.svg" width="400"/>
+  <img src="https://github.com/Dimasega18/Dimasega18/raw/main/streak-stats.svg" width="400"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Terminal Animation
+<p align="center">
+  <img src="https://github.com/Dimasega18/Dimasega18/raw/main/terminal.svg" width="600"/>
+</p>
