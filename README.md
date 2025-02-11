@@ -13,7 +13,7 @@
 - 📊 Passionate about **Data Analytics & Engineering**  
 - 🌱 Learning **Apache Kafka & Airflow**  
 - 🎯 Goal: **Become a Data Engineer!**  
-- 📬 Reach me at: d 
+- 📬 Reach me at: https://linkedin.com/in/dimas-ega-abirama
 
 ---
 
