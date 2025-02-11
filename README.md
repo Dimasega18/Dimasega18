@@ -1,15 +1,9 @@
-### 🐍 GitHub Snake Animation
+### 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/Dimasega18/Dimasega18/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Dimasega18/Dimasega18/main/github-contribution-grid-snake.svg" />
 </p>
 
-### 📊 GitHub Stats
+### 🎮 Terminal SVG
 <p align="center">
-  <img src="https://github.com/Dimasega18/Dimasega18/raw/main/github-stats.svg" width="400"/>
-  <img src="https://github.com/Dimasega18/Dimasega18/raw/main/streak-stats.svg" width="400"/>
-</p>
-
-### 💻 Terminal Animation
-<p align="center">
-  <img src="https://github.com/Dimasega18/Dimasega18/raw/main/terminal.svg" width="600"/>
+  <img src="https://raw.githubusercontent.com/Dimasega18/Dimasega18/main/terminal.svg" />
 </p>
